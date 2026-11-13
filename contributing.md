@@ -148,6 +148,6 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Valorant · Actualizado 2026-11-12 · Compartido bajo licencia MIT*
+*Valorant · Actualizado 2026-11-13 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-11-12 -->
+<!-- updated 2026-11-13 -->
